@@ -4,7 +4,7 @@
 #Local Installation
 1. Install <a href="https://nodejs.org" target="_blank">Node.js</a> 
 2. Install <a target="_blank" href="https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/#install-mongodb-community-edition-with-homebrew">MongoDB</a>
-3. `git clone https://github.com/rajaraodv/react-redux-blog.git`
+3. `git clone https://github.com/VinaySingh8173/Blogging-platform.git`
 4. `cd react-redux-blog`
 5. `npm install`
 6. Create a free <a href="https://postmarkapp.com" target="_blank">PostMark</a> account for sending (confirm email, forgot pwd) emails.
@@ -50,7 +50,7 @@ In production, we need to compile the **latest** client js and place it to `publ
 #Cloning Locally And Pushing To Heroku
 Running your own instance on <a href="https://heroku.com">Heroku</a>.
 
-1. `git clone https://github.com/rajaraodv/react-redux-blog.git`
+1. `git clone https://github.com/VinaySingh8173/Blogging-platform.git`
 2. `cd react-redux-blog`
 3. `heroku login` (enter heroku credentials)
 4. `heroku init`
