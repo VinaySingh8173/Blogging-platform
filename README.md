@@ -4,7 +4,7 @@
 
 Install Node.js
 Install MongoDB
-git clone https://github.com/rajaraodv/react-redux-blog.git
+git clone .git
 cd react-redux-blog
 npm install
 Create a free PostMark account for sending (confirm email, forgot pwd) emails.
@@ -37,7 +37,7 @@ In terminal 1, run npm start. It will be running both the server and the client.
 Open browser and go to : localhost:3000.
 #Cloning Locally And Pushing To Heroku Running your own instance on Heroku.
 
-git clone https://github.com/rajaraodv/react-redux-blog.git
+git clone https://github.com/VinaySingh8173/Blogging-platform.git
 cd react-redux-blog
 heroku login (enter heroku credentials)
 heroku init
