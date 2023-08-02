@@ -3,10 +3,15 @@
 #Local Installation
 
 Install Node.js
+
 Install MongoDB
+
 git clone https://github.com/VinaySingh8173/Blogging-platform.git
+
 cd react-redux-blog
+
 npm install
+
 Create a free PostMark account for sending (confirm email, forgot pwd) emails.
 Export Postmark credentials to environment
 export POSTMARK_API_TOKEN=<getApiTokenFromWInPostmark>
